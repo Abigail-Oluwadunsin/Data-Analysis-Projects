@@ -20,6 +20,8 @@ The dataset includes:
 - **Seasonal Shopping Patterns:** Sales are consistent across Fall, Winter, Spring, and Summer, showing no clear seasonal dependency
 
 ## Power BI Dashboard  
+![Dashboard Preview](https://github.com/Abigail-Oluwadunsin/Data-Analysis-Projects/blob/main/Shopping%20Trend%20Analysis.pdf)  
+https://github.com/Abigail-Oluwadunsin/Data-Analysis-Projects/blob/main/Shopping%20Trend%20Analysis.pdf
 The interactive dashboard provides:  
 **Sales Performance Metrics** – Revenue breakdown by category & location  
 **Customer Segmentation** – Identifying high-value customers  
