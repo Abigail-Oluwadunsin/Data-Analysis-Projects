@@ -5,14 +5,14 @@ This project analyzes shopping trends using Power BI to identify consumer behavi
 ## Tools & Technologies Used  
 - **Power BI** – Data visualization and dashboard creation
 - **Power Query** - Data cleaning and transformation.
-- 
+
 ##   Data set
 The dataset includes:  
 - Customer demographics  
 - Product categories and sales revenue  
 - Purchase frequency and shopping behavior
 
-   **Dataset Source:** []
+   **Dataset Source:** [https://github.com/Abigail-Oluwadunsin/Data-Analysis-Projects/blob/main/shopping_trends_project.csv]
 
    ## Key Insights
 - **Popular Product Categories:** Footwear and Clothing are among the top contributors to revenue, with both categories maintaining average review ratings 
