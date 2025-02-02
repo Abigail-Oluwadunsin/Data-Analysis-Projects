@@ -12,15 +12,13 @@ The dataset includes:
 - Product categories and sales revenue  
 - Purchase frequency and shopping behavior
 
-   **Dataset Source:** [https://github.com/Abigail-Oluwadunsin/Data-Analysis-Projects/blob/main/shopping_trends_project.csv]
-
    ## Key Insights
 - **Popular Product Categories:** Footwear and Clothing are among the top contributors to revenue, with both categories maintaining average review ratings 
 - **Most Preferred Payment Method:** Credit Cards and PayPal are the most preferred payment methods, generating the highest sales. 
 - **Seasonal Shopping Patterns:** Sales are consistent across Fall, Winter, Spring, and Summer, showing no clear seasonal dependency
 
 ## Power BI Dashboard  
-![Dashboard Preview](https://github.com/Abigail-Oluwadunsin/Data-Analysis-Projects/blob/main/Shopping%20Trend%20Analysis.pdf)  
+![Dashboard Preview](https://github.com/Abigail-Oluwadunsin/Data-Analysis-Projects/blob/main/shopping_trends_project.csv)  
 https://github.com/Abigail-Oluwadunsin/Data-Analysis-Projects/blob/main/Shopping%20Trend%20Analysis.pdf
 The interactive dashboard provides:  
 **Sales Performance Metrics** – Revenue breakdown by category & location  
